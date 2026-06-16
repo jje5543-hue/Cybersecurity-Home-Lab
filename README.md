@@ -24,3 +24,8 @@ attack and defense techniques in a safe environment.
 - Threat detection and log analysis
 - Attack simulation and reconnaissance
 - Security monitoring and alerting
+
+## Screenshots
+
+### Splunk Security Monitoring Dashboard
+![Splunk Dashboard](Screenshot%202026-06-16%20170257.png)
