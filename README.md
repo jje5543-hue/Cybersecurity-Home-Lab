@@ -29,3 +29,6 @@ attack and defense techniques in a safe environment.
 
 ### Splunk Security Monitoring Dashboard
 ![Splunk Dashboard](Screenshot%202026-06-16%20170257.png)
+
+### Nmap Network Scan from Kali Linux
+![Nmap Scan](nmap-scan.png)
